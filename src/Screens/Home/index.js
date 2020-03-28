@@ -134,17 +134,17 @@ export default () => {
 						}}
 					/>
 				</View>
-				<Text
+				{/* <Text
 					style={{
 						color: "#929292",
 						margin: wp(4),
 						marginBottom: 0
 					}}>
 					Tap this card for more information.
-				</Text>
+				</Text> */}
 				<Text style={{ color: "#929292", margin: wp(4) }}>
 					Stats by :
-					'https://github.com/ExpDev07/coronavirus-tracker-api'
+					'https://covid19.mathdro.id'
 				</Text>
 			</View>
 			<View

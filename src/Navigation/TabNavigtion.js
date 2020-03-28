@@ -10,7 +10,6 @@ import {
 import News from "../Screens/News";
 import Home from "../Screens/Home";
 import Timeline from "../Screens/Timeline";
-import TimelineDetail from "../Screens/Timeline/TimelineDetail";
 import { createAppContainer } from "react-navigation";
 
 
@@ -34,14 +33,8 @@ const TimelineStack = createStackNavigator(
 			navigationOptions: {
 				headerShown: false
 			}
-		},
-		Detail: {
-			screen: TimelineDetail
 		}
 	}
-	// , {
-	// 	initialRouteName: 'Detail'
-	// }
 );
 
 const BottomTabNavigation = createBottomTabNavigator(
