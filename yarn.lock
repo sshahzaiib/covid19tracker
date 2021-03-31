@@ -5404,11 +5404,6 @@ react-native-pie@^1.1.2:
   resolved "https://registry.yarnpkg.com/react-native-pie/-/react-native-pie-1.1.2.tgz#9cd4d428e85cc232877e5f7cdb2bea9f724fcbac"
   integrity sha512-aShbks0NA4QzXftKpdQd/lNfkvj23yS2pF1A61Y+bKhFMnky0xubN1m4edcDNVWC0a2l40rM9C3JwJOIchv3kQ==
 
-react-native-raw-bottom-sheet@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/react-native-raw-bottom-sheet/-/react-native-raw-bottom-sheet-2.1.0.tgz#cf875206a748d4ccf0b1086d2d113eb75d128664"
-  integrity sha512-Ho/UkKrq8MzmiSRLcveUdMEEwa8oFwDr8Va2NnjJrLpe3v/0WDLpA7SKdU1zg8FcHYmCWXdrGjFbhVMi4lSCqg==
-
 react-native-reanimated@^1.7.0:
   version "1.7.0"
   resolved "https://registry.yarnpkg.com/react-native-reanimated/-/react-native-reanimated-1.7.0.tgz#896db2576552ac59d288a1f6c7f00afc171f240c"
@@ -6933,9 +6928,9 @@ xtend@~4.0.1:
   integrity sha512-LKYU1iAXJXUgAXn9URjiu+MWhyUXHsvfp7mcuYm9dSUKK0/CjtrUwFAxD82/mCWbtLsGjFIad0wIsod4zrTAEQ==
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
-  integrity sha1-bRX7qITAhnnA136I53WegR4H+kE=
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
+  integrity sha512-uGZHXkHnhF0XeeAPgnKfPv1bgKAYyVvmNL1xlKsPYZPaIHxGti2hHqvOCQv71XMsLxu1QjergkqogUnms5D3YQ==
 
 "y18n@^3.2.1 || ^4.0.0", y18n@^4.0.0:
   version "4.0.0"
